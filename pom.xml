@@ -27,12 +27,7 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>org.apache.maven.plugins</groupId>
-      <artifactId>maven-war-plugin</artifactId>
-      <version>3.4.1-SNAPSHOT</version>
-      <type>maven-plugin</type>
-    </dependency>
+    
     <dependency>
       <groupId>org.webjars.npm</groupId>
       <artifactId>mysql</artifactId>
